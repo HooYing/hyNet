@@ -7,4 +7,5 @@ project ("hyNet")
 
 add_subdirectory ("hyServer")
 
+add_subdirectory ("hyClient")
 # TODO: 如有需要，请添加测试并安装目标。
